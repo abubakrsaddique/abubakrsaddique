@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm M ABUBAKAR SADDIQUE</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="centre" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
