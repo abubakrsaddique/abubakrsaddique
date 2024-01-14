@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 <img align="centre" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- 🔭 I’m currently working on **JavaScript including React , Node.js , Firebase**
+- 🔭 I’m currently working on **JavaScript including React , Node & Firebase**
 
 - 📫 How to reach me **abubakarsaddique786.tsk@gmail.com**
 
